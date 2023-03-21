@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NameRecord
+comment0.text=\r\n\ Class\ to\ score\ each\ line\ into\ a\ name\ and\ an\ ArrayList\ record\r\n\r\n\ @author\ Dhruv\ Patel\r\n\ @version\ 12.15.2021\r\n
+comment1.params=line
+comment1.target=NameRecord(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ the\ NameRecord\ class\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gets\ the\ name\ of\ the\ inputted\ line\r\n\ \r\n\ @return\ name\r\n
+comment3.params=index
+comment3.target=int\ getData(int)
+comment3.text=\r\n\ Gets\ the\ data\ associated\ with\ the\ provided\ index\r\n\ \r\n\ @param\ index\r\n\ @return\ arrayList.get(index)\r\n
+comment4.params=newName
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\r\n\ Sets\ the\ name\ provided\ a\ new\ name\ (through\ parameter)\r\n\ \r\n\ @param\ newName\r\n
+comment5.params=index\ value
+comment5.target=void\ setData(int,\ int)
+comment5.text=\r\n\ Sets\ the\ data\ with\ a\ specific\ index\ and\ value\ in\ the\ arrayList\r\n\ \r\n\ @param\ index\r\n\ @param\ value\r\n
+numComments=6

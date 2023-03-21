@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Drawing
+comment0.text=\r\n\ Creates\ the\ graphical\ user\ interface\ (GUI)\ of\ the\ program\ and\ also\ codes\ the\ graph\ which\ plots\ changes\ in\ popularity\ of\ a\ specified\ name\r\n\r\n\ @author\ Dhruv\ Patel\r\n\ @version\ 12.15.2021\r\n
+comment1.params=
+comment1.target=Drawing()
+comment1.text=\r\n\ Method\ to\ create\ the\ GUI\ for\ the\ program\ (uses\ a\ grid\ layout,\ creates\ buttons,\ and\ adds\ action\ listeners\ to\ the\ buttons)\r\n\ \r\n\ @throws\ FileNotFoundException\r\n
+comment2.params=
+comment2.target=void\ drawGridLines()
+comment2.text=\r\n\ Method\ to\ draw\ the\ grid\ lines\ and\ tick\ marks\ for\ each\ graphical\ quantity\r\n
+numComments=3
